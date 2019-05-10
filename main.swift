@@ -22,7 +22,7 @@ let items = [
 
 let app = GildedRose(items: items)
 
-var days = 2;
+var days = 2
 if (CommandLine.argc > 1) {
     days = Int(CommandLine.arguments[1])! + 1
 }
