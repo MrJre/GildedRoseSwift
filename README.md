@@ -1,5 +1,5 @@
 # About this Kata
-A refactoring Kata, bases on existing code. This version uses Swift.
+A refactoring Kata, based on existing code. This version uses Swift.
 
 # Problem Description
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
